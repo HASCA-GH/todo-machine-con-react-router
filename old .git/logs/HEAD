@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 58684b2e35bbb7bed7587a98930a5ffe92f20169 Humberto Asca <hasca@ciplima.org.pe> 1669401915 -0500	commit (initial): Initialize project using Create React App
+58684b2e35bbb7bed7587a98930a5ffe92f20169 6a44b0b5c2d26123ffad9225387a3bd100e53478 Humberto Asca <hasca@ciplima.org.pe> 1669694259 -0500	commit: TODOs app
+6a44b0b5c2d26123ffad9225387a3bd100e53478 00025301d5bdae3eed02a426f0450795cd3b6b13 Humberto Asca <hasca@ciplima.org.pe> 1669863344 -0500	commit: Todo machine done. Next is to upload it to Github pages (GHP)
+00025301d5bdae3eed02a426f0450795cd3b6b13 8cf7d5440459c3e3e089e5a6614974c8a8956df4 Humberto Asca <hasca@ciplima.org.pe> 1669863841 -0500	commit: Uploading it to Github pages (gh-pages)
+8cf7d5440459c3e3e089e5a6614974c8a8956df4 aaedacecbaab39349cc2fc8c8c317e727f78edf8 Humberto Asca <hasca@ciplima.org.pe> 1669864486 -0500	commit: deploy
+aaedacecbaab39349cc2fc8c8c317e727f78edf8 d30d04ae8aac8852e632f743cded8c70b2039ce8 Humberto Asca <hasca@ciplima.org.pe> 1669912202 -0500	commit: Applying Render Props and Render Functions
+d30d04ae8aac8852e632f743cded8c70b2039ce8 bf2131d2a6db8e0496948288558099515a8209d6 Humberto Asca <hasca@ciplima.org.pe> 1670448218 -0500	commit: First commit after migrating the todo-machine to this project (todo-machine-con-react-router)
