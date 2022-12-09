@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-machine-con-react-router.git/static/css/main.087dec95.css",
+    "main.js": "/todo-machine-con-react-router.git/static/js/main.72467e58.js",
+    "static/media/delete.svg": "/todo-machine-con-react-router.git/static/media/delete.29fd05b11eaf391580418d57f61ce8a7.svg",
+    "static/media/check.svg": "/todo-machine-con-react-router.git/static/media/check.1f7d28578b233c645926f02305ed90f4.svg",
+    "index.html": "/todo-machine-con-react-router.git/index.html",
+    "static/media/edit.svg": "/todo-machine-con-react-router.git/static/media/edit.34d3679aee6405db22ac02af949ea3e2.svg",
+    "main.087dec95.css.map": "/todo-machine-con-react-router.git/static/css/main.087dec95.css.map",
+    "main.72467e58.js.map": "/todo-machine-con-react-router.git/static/js/main.72467e58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087dec95.css",
+    "static/js/main.72467e58.js"
+  ]
+}
