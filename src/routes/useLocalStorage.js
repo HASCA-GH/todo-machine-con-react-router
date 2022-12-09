@@ -25,7 +25,7 @@ const useLocalStorage = (itemName, initialValue )=>{
   })
 
   const onSave = (item) => dispatch({
-      type: actionTypes.success, 
+      type: actionTypes.save, 
       payload: item
   })
 
@@ -54,7 +54,7 @@ const useLocalStorage = (itemName, initialValue )=>{
         onError(error)
         // setError(error)
       }
-    }, 3000)
+    }, 1000)
   },[sincronizedItem])
     
   const saveItem = (newItem)=>{
@@ -67,7 +67,7 @@ const useLocalStorage = (itemName, initialValue )=>{
     }
   }
 
-  const sincronizeItem = () => onSincronize()
+  const sincronizeItem = () => {onSincronize()}
     
 
   return {
@@ -80,7 +80,7 @@ const useLocalStorage = (itemName, initialValue )=>{
 }
 
 const initialState = ({initialValue})=> ({
-  sincronizeItem: true,
+  sincronizedItem: true,
   error: false,
   loading: true,
   item: initialValue,
@@ -112,7 +112,7 @@ const reducerObject = (state, payload) => ({
   },
   [actionTypes.sincronize]: {
     ...state,
-    sincronizeItem: false,
+    sincronizedItem: false,
     loading: true,
   },
 })
